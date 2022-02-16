@@ -46,8 +46,6 @@ begin
 end architecture dataflow;
 ```
 
-![Logic function](images/Grafy 2.png)
-
 2. Link to your public EDA Playground example:
 
    [https://www.edaplayground.com/...](https://www.edaplayground.com/x/8iEN)
