@@ -45,7 +45,7 @@ begin
    
 end architecture dataflow;
 ```
-![your figure](images/Grafy 2.png)
+   ![your figure](images/Grafy 2.png)
 
 2. Link to your public EDA Playground example:
 
