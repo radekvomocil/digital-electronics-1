@@ -16,6 +16,7 @@ begin
     f_nor_o  <= not(not((not(b_i or not(a_i))) or (not(c_i or b_i))));
 end architecture dataflow;
 ```
+![your figure](images/Grafy.png)
 
 3. Complete table with logic functions' values:
 
@@ -34,7 +35,17 @@ end architecture dataflow;
 
 1. Screenshot with simulated time waveforms. Always display all inputs and outputs (display the inputs at the top of the image, the outputs below them) at the appropriate time scale!
 
-   ![your figure](images/Grafy.png)
+```vhdl
+   architecture dataflow of gates is
+begin
+    d1_o  <= (x_i and y_i) or (x_i and z_i);
+    d2_o  <= x_i and (y_i or z_i);
+    d3_o  <= (x_i or y_i) and (x_i or z_i);
+    d4_o  <= x_i or (y_i and z_i);
+   
+end architecture dataflow;
+```
+![your figure](images/Grafy 2.png)
 
 2. Link to your public EDA Playground example:
 
