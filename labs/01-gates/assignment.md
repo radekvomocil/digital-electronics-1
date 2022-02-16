@@ -1,8 +1,8 @@
 # Lab 1: Radek Vomočil
 
 ### De Morgan's laws
-
-1. Equations of all three versions of logic function f(c,b,a):
+*asterisks*
+1. Equations *asterisks* of all three versions of logic function f(c,b,a):
 
    ![Logic function](images/Latex.png)
 
