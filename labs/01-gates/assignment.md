@@ -1,8 +1,8 @@
-# Lab 1: Radek Vomočil
+*# Lab 1: Radek Vomočil
 
 ### De Morgan's laws
-*asterisks*
-1. Equations *asterisks* of all three versions of logic function f(c,b,a):
+
+1. Equations of all three versions of logic function f(c,b,a):
 
    ![Logic function](images/Latex.png)
 
@@ -54,4 +54,4 @@ We can see that d1 & d2 are equal as well as d3 & d4 which verify distributive l
 
 2. Link to your public EDA Playground example:
 
-   [https://www.edaplayground.com/...](https://www.edaplayground.com/x/8iEN)
+   [https://www.edaplayground.com/...](https://www.edaplayground.com/x/8iEN) *
