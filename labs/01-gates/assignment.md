@@ -46,6 +46,8 @@ begin
 end architecture dataflow;
 ```
 ![fotka](images/Laws.png)
+We can see that d1 & d2 are equal as well as d3 & d4 which verify distributive laws.
+
 2. Link to your public EDA Playground example:
 
    [https://www.edaplayground.com/...](https://www.edaplayground.com/x/8iEN)
