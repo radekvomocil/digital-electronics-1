@@ -6,9 +6,9 @@
 
    ![Logic function](images/Latex.png)
 
-2. Listing of VHDL architecture from design file (`design.vhd`) for all three functions. Always use syntax highlighting, meaningful comments, and follow VHDL guidelines:
+2. *Listing of VHDL architecture from design file (`design.vhd`) for all three functions. Always use syntax highlighting, meaningful comments, and follow VHDL guidelines:
 
-**Code from EDA Playground:**
+***Code from EDA Playground:**
 ```vhdl
 architecture dataflow of gates is
 begin
@@ -20,7 +20,7 @@ end architecture dataflow;
 **Photo from simulation in EDA Playground:**
 ![your figure](images/Grafy.png)
 
-3. **Complete table with logic functions' values:**
+3. *Complete table with logic functions' values:
 
 | **c** | **b** |**a** | **f(c,b,a)_ORG** | **f(c,b,a)_NAND** | **f(c,b,a)_NOR** |
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -35,7 +35,7 @@ end architecture dataflow;
 
 ### Distributive laws
 
-1. Screenshot with simulated time waveforms. Always display all inputs and outputs (display the inputs at the top of the image, the outputs below them) at the appropriate time scale!
+1. *Screenshot with simulated time waveforms. Always display all inputs and outputs (display the inputs at the top of the image, the outputs below them) at the appropriate time scale!
 **Code from EDA Playground with both laws**
 
 ```vhdl
@@ -48,10 +48,10 @@ begin
    
 end architecture dataflow;
 ```
-**And photo from simulation in EDA Playground
+***And photo from simulation in EDA Playground**
 ![fotka](images/Laws.png)
-We can see that d1 & d2 are equal as well as d3 & d4 which verify distributive laws.**
+**We can see that d1 & d2 are equal as well as d3 & d4 which verify distributive laws.**
 
-2. Link to your public EDA Playground example:
+2. *Link to your public EDA Playground example:
 
    [https://www.edaplayground.com/...](https://www.edaplayground.com/x/8iEN)
