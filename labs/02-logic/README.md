@@ -34,6 +34,16 @@
         report "Input combination 1001, 0111 FAILED" severity error; 
         -- If true, then do not report anything
         report "Input combination 1001, 0111 NOT FAILED" severity note;
+        
+          s_b <= "1001"; s_a <= "1111"; wait for 100 ns;
+        -- ... and its expected outputs
+        assert ((s_B_greater_A = '1') and
+                (s_B_equals_A  = '0') and
+                (s_B_less_A    = '0'))
+        -- If false, then report an error
+        report "Input combination 1001, 0111 FAILED" severity error; 
+        -- If true, then do not report anything
+        report "Input combination 1001, 0111 NOT FAILED" severity note;
 
 
         -- Report a note at the end of stimulus process
