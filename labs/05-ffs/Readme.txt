@@ -1,10 +1,10 @@
    **D-type FF**
    | **clk** | **d** | **q(n)** | **q(n+1)** | **Comments** |
    | :-: | :-: | :-: | :-: | :-- |
-   | ![rising](images/eq_uparrow.png) | 0 | 0 | 0 | Clear (Reset) |
-   | ![rising](images/eq_uparrow.png) | 0 | 1 | 0 | Clear (Reset) |
-   | ![rising](images/eq_uparrow.png) | 1 | 0 | 1 | Set |
-   | ![rising](images/eq_uparrow.png) | 1 | 1 | 1 | Set |
+   |  | 0 | 0 | 0 | Clear (Reset) |
+   |  | 0 | 1 | 0 | Clear (Reset) |
+   |  | 1 | 0 | 1 | Set |
+   |  | 1 | 1 | 1 | Set |
 
 q_{n+1}^D = d
 
