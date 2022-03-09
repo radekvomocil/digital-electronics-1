@@ -22,10 +22,7 @@ entity mux_2bit_4to1 is
         c_i           : in  std_logic_vector(2 - 1 downto 0);
         d_i           : in  std_logic_vector(2 - 1 downto 0);
         sel_i         : in  std_logic_vector(2 - 1 downto 0);
-
         -- COMPLETE ENTITY DECLARATION
-
-
         f_o            : out std_logic_vector(2 - 1 downto 0)
     );
 end entity mux_2bit_4to1 ;
