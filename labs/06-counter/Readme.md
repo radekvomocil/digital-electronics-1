@@ -1,4 +1,4 @@
-![alt text](https://github.com/xsedla1l/Digital-electronics-1/blob/main/Labs/05-counter/Images/image1.png)
+![alt text](Images/Schema.png)
 #### In this position the button is open. The input (for example P17) is log 0 (0V / GND). If we press the button bring to input P17 log 1 (3,3V). 
  | **Time interval** | **Number of clk periods** | **Number of clk periods in hex** | **Number of clk periods in binary** |
    | :-: | :-: | :-: | :-: |
