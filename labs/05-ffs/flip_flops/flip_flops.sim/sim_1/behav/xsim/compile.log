@@ -1,0 +1,7 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Documents/232197/digital-electronics-1/labs/digital-electronics-1/labs/05-ffs/flip_flops/flip_flops.srcs/sources_1/new/d_ff_rst.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'd_ff_rst'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Documents/232197/digital-electronics-1/labs/digital-electronics-1/labs/05-ffs/flip_flops/flip_flops.srcs/sim_1/new/tb_ff_rst.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_ff_rst'
+ERROR: [VRFC 10-2987] 't_ff_rst' is not compiled in library 'xil_defaultlib' [D:/Documents/232197/digital-electronics-1/labs/digital-electronics-1/labs/05-ffs/flip_flops/flip_flops.srcs/sim_1/new/tb_ff_rst.vhd:38]
+ERROR: [VRFC 10-3782] unit 'testbench' ignored due to previous errors [D:/Documents/232197/digital-electronics-1/labs/digital-electronics-1/labs/05-ffs/flip_flops/flip_flops.srcs/sim_1/new/tb_ff_rst.vhd:14]
+INFO: [VRFC 10-3070] VHDL file 'D:/Documents/232197/digital-electronics-1/labs/digital-electronics-1/labs/05-ffs/flip_flops/flip_flops.srcs/sim_1/new/tb_ff_rst.vhd' ignored due to errors
