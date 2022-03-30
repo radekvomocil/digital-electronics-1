@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Documents/232197/digital-electronics-1/labs/digital-electronics-1/labs/07-display_driver/display_driver/display_driver.srcs/sources_1/new/cnt_up_down.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'cnt_up_down'
+ERROR: [VRFC 10-4982] syntax error near 'process' [D:/Documents/232197/digital-electronics-1/labs/digital-electronics-1/labs/07-display_driver/display_driver/display_driver.srcs/sources_1/new/cnt_up_down.vhd:66]
+ERROR: [VRFC 10-3763] type error near 'p_cnt_up_down' ; expected type ' void' [D:/Documents/232197/digital-electronics-1/labs/digital-electronics-1/labs/07-display_driver/display_driver/display_driver.srcs/sources_1/new/cnt_up_down.vhd:66]
+ERROR: [VRFC 10-4982] syntax error near 'architecture' [D:/Documents/232197/digital-electronics-1/labs/digital-electronics-1/labs/07-display_driver/display_driver/display_driver.srcs/sources_1/new/cnt_up_down.vhd:71]
+INFO: [VRFC 10-3070] VHDL file 'D:/Documents/232197/digital-electronics-1/labs/digital-electronics-1/labs/07-display_driver/display_driver/display_driver.srcs/sources_1/new/cnt_up_down.vhd' ignored due to errors
