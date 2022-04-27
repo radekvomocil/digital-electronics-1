@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue Apr 26 21:23:53 2022
+# Process ID: 11888
+# Current directory: C:/DE1/digital-electronics-1/labs/06-counter/counter
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent12252 C:\DE1\digital-electronics-1\labs\06-counter\counter\counter.xpr
+# Log file: C:/DE1/digital-electronics-1/labs/06-counter/counter/vivado.log
+# Journal file: C:/DE1/digital-electronics-1/labs/06-counter/counter\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/DE1/digital-electronics-1/labs/06-counter/counter/counter.xpr
+update_compile_order -fileset sources_1

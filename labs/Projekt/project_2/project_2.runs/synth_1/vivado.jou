@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Mon Apr 25 16:19:10 2022
+# Process ID: 6764
+# Current directory: C:/DE1/digital-electronics-1/labs/Projekt/project_2/project_2.runs/synth_1
+# Command line: vivado.exe -log clock_divider1.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source clock_divider1.tcl
+# Log file: C:/DE1/digital-electronics-1/labs/Projekt/project_2/project_2.runs/synth_1/clock_divider1.vds
+# Journal file: C:/DE1/digital-electronics-1/labs/Projekt/project_2/project_2.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source clock_divider1.tcl -notrace

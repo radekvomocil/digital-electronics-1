@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../../../../../Users/radek/Downloads/clock_divider1.vhd" \
+"../../../../../../../../../Users/radek/Downloads/frequency_counter.vhd" \
+"../../../../../../../../../Users/radek/Downloads/tb_f_counter.vhd" \
+
+# Do not sort compile order
+nosort

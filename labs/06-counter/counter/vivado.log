@@ -1,0 +1,25 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue Apr 26 21:23:53 2022
+# Process ID: 11888
+# Current directory: C:/DE1/digital-electronics-1/labs/06-counter/counter
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent12252 C:\DE1\digital-electronics-1\labs\06-counter\counter\counter.xpr
+# Log file: C:/DE1/digital-electronics-1/labs/06-counter/counter/vivado.log
+# Journal file: C:/DE1/digital-electronics-1/labs/06-counter/counter\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/DE1/digital-electronics-1/labs/06-counter/counter/counter.xpr
+INFO: [Project 1-313] Project file moved from 'D:/Documents/232197/digital-electronics-1/labs/digital-electronics-1/labs/06-counter/counter' since last save.
+Scanning sources...
+Finished scanning sources
+CRITICAL WARNING: [Board 49-67] The board_part definition was not found for digilentinc.com:nexys-a7-50t:part0:1.0. This can happen sometimes when you use custom board part. You can resolve this issue by setting 'board.repoPaths' parameter, pointing to the location of custom board files. Valid board_part values can be retrieved with the 'get_board_parts' Tcl command.
+INFO: [Project 1-230] Project 'counter.xpr' upgraded for this version of Vivado.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Programy/Vivado/Vivado/2020.2/data/ip'.
+open_project: Time (s): cpu = 00:00:27 ; elapsed = 00:00:08 . Memory (MB): peak = 1212.527 ; gain = 0.000
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Tue Apr 26 21:30:02 2022...

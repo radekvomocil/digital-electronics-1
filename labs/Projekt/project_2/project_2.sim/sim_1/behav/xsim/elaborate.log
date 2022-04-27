@@ -1,0 +1,8 @@
+Vivado Simulator 2020.2
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/Programy/Vivado/Vivado/2020.2/bin/unwrapped/win64.o/xelab.exe -wto 547b438e16964d46bad10058527adbe7 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot tb_clock_behav xil_defaultlib.tb_clock -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-4940] 'clock_divider2' remains a black box since it has no binding entity [C:/DE1/digital-electronics-1/labs/Projekt/project_2/project_2.srcs/sim_1/new/tb_clock.vhd:31]
+Completed static elaboration
+INFO: [XSIM 43-4323] No Change in HDL. Linking previously generated obj files to create kernel
